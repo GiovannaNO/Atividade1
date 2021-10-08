@@ -1,0 +1,2 @@
+Giovanna Nunes de Oliveira
+1.git init: Serve para criar um novo repositório.
