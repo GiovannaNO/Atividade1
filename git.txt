@@ -1,2 +1,3 @@
 Giovanna Nunes de Oliveira
 1.git init: Serve para criar um novo repositório.
+2.git config --global user.name: Serve para configurar seu nome de usuario, sua identificação.
