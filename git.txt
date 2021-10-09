@@ -5,3 +5,4 @@ Giovanna Nunes de Oliveira
 4.git remote add origin: Serve para dar um destino ao qual o repositório é correspondente.
 5.git status: Serve para verificar como os arquivos estão, o status de cada um.
 6.git log: Serve para consultar histórico de alterações em ordem cronológica.
+7.git add: Serve para adiciona todos os arquivos na área de preparação.
