@@ -6,4 +6,5 @@ Giovanna Nunes de Oliveira
 5.git status: Serve para verificar como os arquivos estão, o status de cada um.
 6.git log: Serve para consultar histórico de alterações em ordem cronológica.
 7.git add: Serve para adiciona todos os arquivos na área de preparação.
-8.git commit : Serve para salva as alterações no repositório local com a mensagem, commit.
+8.git commit : Serve para salvar as alterações no repositório local com a mensagem, commit.
+9.git push: Serve para enviar as alterações feitas, os commits.
