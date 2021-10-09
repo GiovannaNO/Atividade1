@@ -2,4 +2,5 @@ Giovanna Nunes de Oliveira
 1.git init: Serve para criar um novo repositório.
 2.git config --global user.name: Serve para configurar seu nome de usuario, sua identificação.
 3.git config --global user.email: Serve para configurar seu email.
-4.git remote add origin : Serve para dar um destino ao qual o repositório é correspondente.
+4.git remote add origin: Serve para dar um destino ao qual o repositório é correspondente.
+5.git status: Serve para verificar como os arquivos estão, o status de cada um.
